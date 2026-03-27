@@ -1,6 +1,6 @@
 # 🌐 Aplicación Web: Predicción de Abandono de Clientes (Churn)
 
-🔴 **[¡Prueba la aplicación interactiva en vivo aquí!](INGRESA_AQUI_EL_LINK_DE_STREAMLIT)**
+🔴 **[¡Prueba la aplicación interactiva en vivo aquí!](https://app-prediccion-lgqk5xvt78xvfvnj3xl4bv.streamlit.app/)**
 
 ## 🎯 Sobre el Proyecto
 Este proyecto lleva un modelo de **Machine Learning** desde un entorno de desarrollo (Jupyter/Colab) a la vida real. Se construyó una aplicación web interactiva que permite a cualquier usuario del área de negocio (sin conocimientos de programación) predecir si un cliente va a cancelar su servicio.
